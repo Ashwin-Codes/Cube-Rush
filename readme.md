@@ -6,3 +6,5 @@ suitable to develop games and hence does not comes with prebuild features like t
 All the assets are downloaded from multiple websites and i don't own any of them. I also realise that its better
 to have seperate folders for assets, stylesheets and scripts but as i said it is just a fun little project
 some best practices like this was ignored. Thanks for reading.
+
+You can go to https://cuberush.netlify.app to play it.
