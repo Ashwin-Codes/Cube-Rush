@@ -85,6 +85,14 @@ body {
     left: 0.25rem;
     color: white;
 }
+.fps {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    font-size: 1.5rem;
+    top: 0.5rem;
+    left: 85%;
+    color: white;
+}
 /*Player Movement Animation */
 @keyframes playerJumpAnimation {
     0% {
