@@ -37,7 +37,7 @@ function enemyCreation(){
     let height = Math.floor((Math.random() * 64) + 64);
     enemy.style.width = `${width}px`;
     enemy.style.height = `96px`;
-    enemy.style.backgroundImage = "url(./enemy.png)";
+    enemy.style.backgroundImage = "url(../assets/enemy.png)";
     enemy.classList.add("enemyPosition");
     enemy.setAttribute("id","enemy");
     board.appendChild(enemy);
