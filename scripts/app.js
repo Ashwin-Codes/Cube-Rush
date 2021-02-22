@@ -33,7 +33,7 @@ function enemyCreation(){
     let enemynode = document.getElementById("enemy");
     enemynode.remove();
     let enemy = document.createElement("div");
-    let width = Math.floor((Math.random() * 80) + 32);
+    let width = Math.floor((Math.random() * 64) + 32);
     let height = Math.floor((Math.random() * 64) + 64);
     enemy.style.width = `${width}px`;
     enemy.style.height = `96px`;
